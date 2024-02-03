@@ -1,3 +1,3 @@
-# Manga Culture - plataforma de ebooks
+# Mangás Culture - site de leitura de mangás e hq´s
 
-Neste repositório criarei junto ao Alura uma plataforma de E-books, onde terá elementos HTML e CSS e responsividade com dispositivos mobile.
+Neste repositório desenvolvi um site para leitura de Mangás e hq´s, utilizando meus sonhecimentos em HTML, CSS e um pouco de Javascript
